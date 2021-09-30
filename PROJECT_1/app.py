@@ -1,4 +1,13 @@
 # PROJECT WEEK 1 : 
+# THIS PROJECT DESCRIBES ABOUT EXTRACT THE REQUIRED DATA FROM URL AND STORE IN JSON , MONGO DB AND THE DISPLAY THE JSON DATA IN HTML TABLE FORMAT
+# PROGRAM        : READING DATA FROM URL 
+# PROGRAMMED BY  : KOLIPAKA PREETHI
+# EMAIL ID       : b18cs148@kitsw.ac.in 
+# DATE           : 27-SEP-2021
+# PYTHON VERSION : 3.8
+# CAVEATS        : None 
+# LICENSE        : None 
+
 from pymongo import MongoClient 
 from json2html import *
 import json 
