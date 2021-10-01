@@ -1,3 +1,12 @@
+
+# PROGRAM        : DISPLAY THE JSON FILE TO HTML FORMAT
+# PROGRAMMED BY  : KOLIPAKA PREETHI
+# EMAIL ID       : b18cs148@kitsw.ac.in 
+# DATE           : 20-SEP-2021 
+# PYTHON VERSION : 3.8
+# CAVEATS        : None 
+# LICENSE        : None 
+
 import json 
 from flask import Flask , render_template 
 
