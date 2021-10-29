@@ -1,3 +1,11 @@
+# PROGRAM        : TO PERFORM REGRESSION ANALYSIS ON DATA
+# PROGRAMMED BY  : KOLIPAKA PREETHI
+# EMAIL ID       : b18cs148@kitsw.ac.in 
+# DATE           : 29-10-2021
+# PYTHON VERSION : 3.8
+# CAVEATS        : None 
+# LICENSE        : None 
+
 import numpy as np 
 import pandas as pd 
 import matplotlib.pyplot as plt 
